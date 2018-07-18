@@ -1,4 +1,4 @@
-# Blog Exercise
+# Blog App
 
 ## Blog Index
 * Setup blog app
